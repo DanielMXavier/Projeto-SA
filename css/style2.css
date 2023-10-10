@@ -25,19 +25,19 @@
 
 
 
-td {
+.combo1 {
     background-color: rgba(236, 236, 236, 0.493);
-    padding: 20px;
-    width: 600px;
+
+
     border-radius: 15px;
     text-align: center;
     display: flex;
-    flex-direction: row;
 }
 
 .nomezinho {
     display: flex;
     flex-direction: column;
+    margin-left: 2 0px;
 }
 
 .foto {
